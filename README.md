@@ -3,7 +3,7 @@ In this project, we propose many kernel methods from scratch for DNA Sequence cl
 
 Team name: Bourbaki's KM_Team
 
-This project was done in collaboration with (Verlon Roel Mbingui)[https://github.com/VerlonRoelMBINGUI]
+This project was done in collaboration with (https://github.com/VerlonRoelMBINGUI)[Verlon Roel Mbingui]
 
 The link brings you to the hackathon website
 
