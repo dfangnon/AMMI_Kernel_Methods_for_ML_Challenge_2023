@@ -5,7 +5,7 @@ Team name: Bourbaki's KM_Team
 
 This project was done in collaboration with [Verlon Roel Mbingui](https://github.com/VerlonRoelMBINGUI)
 
-The link brings you to the hackathon website
+The [https://www.kaggle.com/competitions/kernel-methods-ammi-2023/overview](link) brings you to the hackathon website
 
 The goal of the data challenge is to learn how to implement machine learning algorithms, gain an understanding of them and adapt them to structural data.
 
